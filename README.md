@@ -8,7 +8,7 @@ This is a light rebuild of Netflix's main page.
 
 
 
-Check it out! https://netflix-clone-c716a.firebaseapp.com
+<!-- Check it out! https://netflix-clone-c716a.firebaseapp.com -->
 
 ### Some features highlights:
 - Built with ReactJS - Scroll Listener for the navbar;
