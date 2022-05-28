@@ -18,7 +18,6 @@ function Banner() {
     fetchData();
   }, []);
 
-  console.log(movie);
 
   function truncate(string, maxNumber) {
     return string?.length > maxNumber
