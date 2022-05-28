@@ -2,7 +2,15 @@
 
 This is a light rebuild of Netflix's main page.
 
-Some features highlights:
+### Preview:
+
+![Preview GIF:](https://github.com/samuelfuchs/netflix-clone/blob/master/preview_2.2.gif)
+
+
+
+Check it out! https://netflix-clone-c716a.firebaseapp.com
+
+### Some features highlights:
 - Built with ReactJS - Scroll Listener for the navbar;
 - TMDB API - Movie Library;
 - Axios for handling requests;
