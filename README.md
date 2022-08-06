@@ -14,7 +14,7 @@ This is a light rebuild of Netflix's main page.
 - Built with ReactJS - Scroll Listener for the navbar;
 - TMDB API - Movie Library;
 - Axios for handling requests;
-- Stored on Firebase.
+- Stored on Netflify.
 
 ### Credits
 Clever Programmer
